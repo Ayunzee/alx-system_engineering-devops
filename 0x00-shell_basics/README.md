@@ -1,2 +1,2 @@
 Displays current directory contents
-Creates a directory inside another
+Creates a directory named my-first-directory in another /tmp
