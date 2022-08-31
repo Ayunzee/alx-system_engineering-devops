@@ -1,2 +1,2 @@
 deletes the file betty.
-delees the directory that was created.
+deletes the directory my-first-directory from tmp
