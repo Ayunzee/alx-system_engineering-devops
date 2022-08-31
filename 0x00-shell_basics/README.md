@@ -1,1 +1,2 @@
-Displays current directory contents in a long format
+Script that changes the working directory to the user's home directory.
+Displays content in long formats.
